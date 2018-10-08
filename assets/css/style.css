@@ -1,0 +1,18 @@
+body {
+    background-image: url(../images/skullsbackground.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.container {
+    margin: auto;
+    background-color: ghostwhite;
+    text-align: center;
+    margin-top: 30px;
+    border: solid purple 5px;
+}
+
+p {
+    font-weight: bolder;
+    color: orange;
+}
