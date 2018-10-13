@@ -26,3 +26,8 @@ h1 {
     margin: 20px;
     font-family: 'Frijole', cursive;
 }
+
+#currentWord {
+    letter-spacing: 5px;
+}
+
